@@ -1,4 +1,4 @@
-# x-lvgl-simulator
+# lvgl-simulator-x
 
 lvgl simulator for MacOSX && Windows && Linux.
 
@@ -14,7 +14,7 @@ lvgl simulator for MacOSX && Windows && Linux.
 
 ## 安装
 
-使用 Git 拉取代码到本地：`git clone --recurse-submodules git@github.com:LanFly/x-lvgl-simulator.git`
+使用 Git 拉取代码到本地：`git clone --recurse-submodules git@github.com:LanFly/lvgl-simulator-x.git`
 
 ## 开发
 
